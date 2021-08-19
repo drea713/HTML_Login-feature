@@ -1,0 +1,53 @@
+/* a {
+    color: cadetblue;
+} */
+
+/* nav.navbar.navbar-expand-lg.navbar-light.bg-light {
+    background-color: tomato;
+} */
+
+/* #background {
+    background-color: teal;
+} */
+
+/* .nav-item {
+    background-color: violet;
+}
+body nav li.disable-link.nav-item {
+    background-color: unset;
+}
+ */
+
+/* ul > li {
+    background-color: violet;
+} */
+
+/* li {
+    background-color: violet;
+} */
+
+/* 
+nav div a {
+    color:chartreuse;
+} */
+
+.sidebar {
+    background-color: blueviolet;
+}
+
+.main-content {
+    background-color: steelblue;
+}
+
+.textstuff {
+    width: 100%;
+}
+
+.centered {
+    display: block;
+    margin: 0 auto;
+}
+
+.btn-gradient {
+    background-image: linear-gradient( #A5D2D9, #17A2B8);
+}
